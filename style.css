@@ -30,9 +30,10 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #F07823;;
+    background-color: #cf903e;;
     padding: 10px 20px;
     color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
@@ -64,7 +65,7 @@ nav ul li a {
     
     background-size: cover;
     background-position: center;
-    color: #F19A21;;
+    color: rgb(70, 206, 21);
     text-align: center;
     padding: 100px 20px;
 }
